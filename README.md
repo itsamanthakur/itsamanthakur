@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 💬 Ask me about **html , css, js**
+- 💬 Ask me about **html , css, angular, js**
 
 - 📫 How to reach me **rajputamanthakur12@gmail.com**
 
